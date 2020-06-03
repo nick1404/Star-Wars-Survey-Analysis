@@ -6,4 +6,4 @@ In this project, we will analyse survey responses about the Star Wars movie fran
 - exploring the differences in responses between male and female genders;
 - investigating the correlation between whether a respondent considers themselves to be a fan of the franchise and the movie ratings.
 
-The main dataset used for analysis consists of a survey that was done by [FiveThirtyEight](https://fivethirtyeight.com/features/americas-favorite-star-wars-movies-and-least-favorite-characters/). Additional information was collected from [IMDB](IMDB.com).
+The main dataset used for analysis (**star_wars.csv**) consists of a survey that was done by [FiveThirtyEight](https://fivethirtyeight.com/features/americas-favorite-star-wars-movies-and-least-favorite-characters/). Additional information (**imdb.csv**) was collected from [IMDB](IMDB.com).
